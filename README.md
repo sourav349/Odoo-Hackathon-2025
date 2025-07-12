@@ -36,7 +36,7 @@ Lightweight admin panel for oversight
 Clone this Repository
 
 ```
-git clone https://github.com/sourav349/RentHub-Clone
+https://github.com/sourav349/Odoo-Hackathon-2025.git
 ```
 
 Install Node Packages
